@@ -1,6 +1,7 @@
 *.log
 *.sh
 .DS_Store
+.editorconfig
 .env
 .env.backup
 .env.production
